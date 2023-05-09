@@ -26,3 +26,6 @@ The S&P 500 market stock dataset is a collection of historical stock prices for 
 
 
 #  Forcasting with MLP
+Based on the results, the model performs reasonably well in predicting the target variable. The low MAE and RMSE values indicate that the model's predictions are generally close to the actual values. The MSE value is also reasonable, although it is higher than the other metrics.
+
+Overall, the model can be considered as a good starting point, but further improvement could be achieved by tuning the hyperparameters or trying out different models.
